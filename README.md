@@ -1,20 +1,9 @@
-# NUCLEO-WB15CC FreeRTOS 
+# Effective C An Introduction To Professional C Programming -- Examples
 
-- The projects here are examples of NON CMSIS manual FreeRTOS implementation.
-- FreeRTOS Kernel **V10.4.3** is used.
-- The application code is being written on **STM32CubeIDE version 1.12.0**
+> Hello everyone! Effective C is a book written by **Robert C. Seacord**. The source codes provided [here](https://github.com/Alitastan/EffectiveC) are my collections while I was reading the book. I find this book very useful since it helped me to understand some topics where I had problems to grasp the idea behind them. It also improved my insight over C language and I feel lucky to be able to read this book! I highly recommend it to those who want to improve themselves.
 
-## Notes
-	
-- This project is based on FastBit Embedded Brain Academy course: Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging
-
-*001Tasks* is an example of creating two simple tasks. It also includes Segger Sysview implementation.
-
-*002LedTasks* is an example of 3 LED tasks blinking with different periods
-
-*003LedTasks_Notification* is an example of 3 LEDs and 1 button task. Button2 of NUCLEO-WB15CC board is used to trigger the LED blinking. Press the button 4 times and see for yourself!
-
-https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/
+*NOTES*
+ * *The source code examples are taken from [Effective C book](http://robertseacord.com/wp/). Please note that some are my own implementations and not all of them are identical with the ones provided in the book.*
 
 
 
